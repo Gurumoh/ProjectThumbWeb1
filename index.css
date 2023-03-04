@@ -25,7 +25,7 @@ h1{
     display: grid;
     grid-template-columns: 0.5fr 1fr;
     overflow: hidden;
-    gap: 126px;
+    gap: 229px;
 }
 .text{
     width: 494px;
@@ -77,5 +77,5 @@ h1{
     background: #ffffff;
     border-radius: 40px;
     background: url(Place\ your\ Design.jpg) ;
-    
+  
 }
