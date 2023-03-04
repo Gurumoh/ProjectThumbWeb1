@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    width: 1600px;
+    height: 1200px;
+    background: linear-gradient(135deg, #272727 0%, #BFC3D1 100%);
+    padding-left: 100px;
+
+}
+h1{
+    font-family: 'Eczar', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    padding-top: 49px;
+
+}
+.content{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    overflow: hidden;
+}
+.text{
+    width: 494px;
+    height: 541px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    
+}
+.language{
+    width: 376px;
+    height: 210px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    margin-top: 275px;
+}
+.a-web-based{
+    width: 494px;
+    height: 180px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 60px;
+    color: #fafafa;
+    margin-top: 74px;
+}
+.wep-app{
+    width: 247px;
+    height: 57px;
+    font-family: 'Eczar', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 57px;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+    margin-top: 20px;
+
+}
+.rectangle{
+    width: 1348px;
+    height: 858px;
+    background: #ffffff;
+    border-radius: 40px;
+    background: url(Place\ your\ Design.jpg) ;
+    
+}
